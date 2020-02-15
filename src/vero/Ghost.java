@@ -1,0 +1,4 @@
+package vero;
+
+class Ghost {
+}
